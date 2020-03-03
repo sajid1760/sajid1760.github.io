@@ -1,11 +1,11 @@
 # Site settings
 author: Sajid Anjum
-title: 
+title: Sajid's FlatIron Blog
 header-img: img/home-bg.png
 email: sajid1760@gmail.com
 copyright_name: Sajid Anjum
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A journey through the school
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  sajid1760
